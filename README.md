@@ -20,6 +20,4 @@ When you push, create a pull request, or merge, GitHub sends data to your Flask 
 
 
 
-### Example Output
 
-###WebHook events in the UI 
